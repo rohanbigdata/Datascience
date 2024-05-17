@@ -1,4 +1,5 @@
 https://www.sec.gov/oiea/investor-alerts-and-bulletins/how-read-10-k10-q
+
 for Data Extraction for reports 
 https://www.sec.gov/edgar/searchedgar/companysearch
 
